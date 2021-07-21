@@ -1,4 +1,4 @@
-# Homework-5
+# Day PLanner Homework.
 Third-Party APIs Homework: Day Planner
 
 # Objective
